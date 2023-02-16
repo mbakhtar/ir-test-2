@@ -1,0 +1,20 @@
+{
+    "roles": [
+        {
+            "name": "Left",
+            "service": 318542083
+        },
+        {
+            "name": "Right",
+            "service": 318542083
+        },
+        {
+            "name": "IR 1",
+            "service": 309087410
+        },
+        {
+            "name": "IR 2",
+            "service": 309087410
+        }
+    ]
+}
